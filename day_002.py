@@ -317,5 +317,5 @@ print ("The list after slicing using range is : ")
 print (a[2:5])
 
 
-#end of day 2
+#end of day 2 code
 
