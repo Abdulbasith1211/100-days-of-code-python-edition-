@@ -589,5 +589,5 @@ string = str(input("Enter input:"))
 # output
 print(string)
 
-#end of day 1 code
+#end of code (day1)
  
