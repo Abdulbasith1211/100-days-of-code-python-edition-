@@ -15,7 +15,7 @@ I didn't follow any particular course, just going with the flow
 | 4 | Classes and Functions | GeeksforGeeks | [link to content](https://practice.geeksforgeeks.org/tracks/python-module-4/?batchId=119) |
 | 5 | List and Tuples | GeeksforGeeks | [link to content](https://practice.geeksforgeeks.org/tracks/python-module-5/?batchId=119) |
 | 6 | Dictionary | GeeksforGeeks | [lint to content](https://practice.geeksforgeeks.org/tracks/python-module-6/?batchId=119) |
-| 7 | Mini milestone project 1 | freecodecamp | [link to content ] (https://www.youtube.com/watch?v=SqvVm3QiQVk&t=1712s) |
-| 8 | Mini milestone project 2 | freecodecamp | [link to content ] (https://www.youtube.com/watch?v=SqvVm3QiQVk&t=1712s) |
-
+| 7 | Mini milestone project 1 | freecodecamp | [link to content ](https://www.youtube.com/watch?v=SqvVm3QiQVk&t=1712s) |
+| 8 | Mini milestone project 2 | freecodecamp | [link to content ](https://www.youtube.com/watch?v=SqvVm3QiQVk&t=1712s) |
+| 9 | Learning Python Decorators | codesdope | [link to content ](https://www.codesdope.com/course/python-decorators/) |
 
