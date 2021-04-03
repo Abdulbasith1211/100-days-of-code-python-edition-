@@ -20,3 +20,4 @@ I didn't follow any particular course, just going with the flow
 | 9 | Learning Python Decorators | codesdope | [link to content ](https://www.codesdope.com/course/python-decorators/) |
 | 10 | Problem Solving | HackerRank | [link to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
 | 11 | Problem Solving | HackerRank | [link to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
+| 12 | Arrays | GeeksforGeeks | [first time login link](https://www.geeksforgeeks.org/array-python-set-1-introduction-functions/) |
