@@ -4,7 +4,7 @@ Python from zero to hero mastery**
 <br/>
 Start date : 23-Mar-2021  
 <br/>
-I didn't follow any particular course, just going with the flow  
+I didn't follow any particular course to be honest, just going with the flow  and some problem solving XD
 <br/>  
 
 | Day    | Topics          | platform | Link to the content |
@@ -21,3 +21,5 @@ I didn't follow any particular course, just going with the flow
 | 10 | Problem Solving | HackerRank | [link to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
 | 11 | Problem Solving | HackerRank | [link to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
 | 12 | Arrays | GeeksforGeeks | [first time login link](https://www.geeksforgeeks.org/array-python-set-1-introduction-functions/) |
+| 13 | Arrays - (problem solving) | Hackerank | [link to the page](https://www.hackerrank.com/domains/data-structures) |
+| 14 | Learning Linked lists | GeeksforGeeks | [link to content](https://www.geeksforgeeks.org/data-structures/linked-list/) |
