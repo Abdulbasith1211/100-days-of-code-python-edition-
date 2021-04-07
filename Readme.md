@@ -21,5 +21,6 @@ I didn't follow any particular course to be honest, just going with the flow  an
 | 10 | Problem Solving | HackerRank | [link to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
 | 11 | Problem Solving | HackerRank | [link to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
 | 12 | Arrays | GeeksforGeeks | [first time login link](https://www.geeksforgeeks.org/array-python-set-1-introduction-functions/) |
-| 13 | Arrays - (problem solving) | Hackerank | [link to the page](https://www.hackerrank.com/domains/data-structures) |
+| 13 | Arrays - (problem solving) | HackerRank | [link to the page](https://www.hackerrank.com/domains/data-structures) |
 | 14 | Learning Linked lists | GeeksforGeeks | [link to content](https://www.geeksforgeeks.org/data-structures/linked-list/) |
+| 15 | Linked lists - (problem solving -1) | HackerRank | [link to the page](https://www.hackerrank.com/domains/data-structures) |
