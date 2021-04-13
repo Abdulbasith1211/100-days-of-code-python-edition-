@@ -25,3 +25,5 @@ I didn't follow any particular course to be honest, just going with the flow  an
 | 14 | Learning Linked lists | GeeksforGeeks | [link to content](https://www.geeksforgeeks.org/data-structures/linked-list/) |
 | 15 | Linked lists - (problem solving -1) | HackerRank | [link to the page](https://www.hackerrank.com/domains/data-structures) |
 | 16 | Linked lists - (problem solving -2) | HackerRank | [link to the page](https://www.hackerrank.com/domains/data-structures) |
+| 17 | Learning Stack | GeeksforGeeks | [link to content](https://www.geeksforgeeks.org/stack-data-structure/) |
+| 18 | Stack - (problem solving -1) | HackerRank | [link to the page](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=stacks) 
