@@ -27,3 +27,5 @@ I didn't follow any particular course to be honest, just going with the flow  an
 | 16 | Linked lists - (problem solving -2) | HackerRank | [link to the page](https://www.hackerrank.com/domains/data-structures) |
 | 17 | Learning Stack | GeeksforGeeks | [link to content](https://www.geeksforgeeks.org/stack-data-structure/) |
 | 18 | Stack - (problem solving -1) | HackerRank | [link to the page](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=stacks) 
+| 19 | Stack - (problem solving -2) | leetCode | [link to the page](https://leetcode.com/problemset/all/?search=stack) |
+|
